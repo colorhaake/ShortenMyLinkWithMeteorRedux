@@ -1,1 +1,2 @@
-# ShortenMyLinkWithMeteorRedux-
+# ShortenMyLinkWithMeteorRedux
+## Meteor + Redux + ReduxLoop
