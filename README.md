@@ -20,5 +20,5 @@
 
 ## How to run
 
-1. install meteor  
+1. Install meteor  
 2. git clone + run `meteor` in terminal
