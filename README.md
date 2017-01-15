@@ -3,7 +3,7 @@
 
 1. `View` only handle rendering data and clicking event from `props`.  
 
-2. Clicking event will send an action to `Reducer`.  
+2. Clicking event or any other interaction will send an action to `Reducer`.  
 
 3. `Reducer` will define and run handlers for actions.  
 
