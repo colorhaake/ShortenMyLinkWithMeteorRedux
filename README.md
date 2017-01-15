@@ -17,3 +17,8 @@
 7. Again, `Reducer` will run handlers for actions.  
 
 8. Every `state` changed (at step 4 and 7) will be sent to `View` and again, `View` will render data from new `state` (at step 1)
+
+## How to run
+
+1. install meteor  
+2. git clone + run `meteor` in terminal
