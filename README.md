@@ -21,4 +21,4 @@
 ## How to run
 
 1. Install meteor  
-2. git clone + run `meteor` in terminal
+2. git clone + `npm install` + run `meteor` in terminal
